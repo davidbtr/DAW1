@@ -1,9 +1,7 @@
-package SEGUNDAEVALUACION;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Ejercicio16 {
+public class Mastermind {
 public static void main(String[] args) {
 Scanner sn = new Scanner (System.in);
 
