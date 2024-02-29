@@ -1,4 +1,4 @@
-<h1> Gladiador </h1>
+Gladiador
 El juego es una simulación de combate entre un gladiador y un monstruo,
 donde el jugador controla al gladiador.
 Debe esquivar los ataques del monstruo seleccionando la dirección adecuada
